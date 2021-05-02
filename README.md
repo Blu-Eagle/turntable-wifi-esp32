@@ -23,3 +23,7 @@ I suggest 4 perimeters, using for the external one 95% flow and lower speed, in 
 this is a project you can find on thingiverse here: https://www.thingiverse.com/thing:4846512
 this is a project you can find on Prusa here: https://www.prusaprinters.org/prints/65607-rotating-turntable-esp32-wifi-web-interface-28cm-d
 
+about the WIFI:
+- you will fine an open Access Point to connect: MyESP32AP
+- then go with the browser to http://192.168.4.1
+then you find a slider for the speed and a switch button for the direction.
